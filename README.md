@@ -1,7 +1,7 @@
 # acg-mastering-cloudformation
 
 A Cloud Guru Course: Mastering CloudFormation
-
+Test
 ## Chapter 1 - Intro and Theory
 *Everything you need to set you up for a successful course. We'll quickly cover some tips when working with the AWS CLI. We'll then cover a brief review of the CloudFormation template anatomy including metadata, intrinsic functions, as well as exporting and importing values between templates.*
 
